@@ -12,5 +12,5 @@ function pokazKategorie_2() {
     mysqli_data_seek($wynik_kategorie, 0);
 }
 
-
+//Test
 ?>
